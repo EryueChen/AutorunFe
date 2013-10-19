@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutorunFe", "AutorunFe\AutorunFe.csproj", "{B0C6F203-9B2B-409B-9E38-2B512149CC7F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0C6F203-9B2B-409B-9E38-2B512149CC7F}.Debug|x86.ActiveCfg = Debug|x86
+		{B0C6F203-9B2B-409B-9E38-2B512149CC7F}.Debug|x86.Build.0 = Debug|x86
+		{B0C6F203-9B2B-409B-9E38-2B512149CC7F}.Release|x86.ActiveCfg = Release|x86
+		{B0C6F203-9B2B-409B-9E38-2B512149CC7F}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
